@@ -1,10 +1,10 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="keywords" content="HTML5 Template" />
-<meta name="description" content="Boldman Infostack &raquo; Comments Feed HTML Template" />
+<meta name="description" content="Siddheshwar Group" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-<title>Boldman Infostack &raquo; Comments Feed</title>
+<title><?php include('title.php'); ?></title>
 
 <!-- favicon icon -->
 <link rel="shortcut icon" href="images/favicon.png" />

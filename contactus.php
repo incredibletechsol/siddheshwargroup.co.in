@@ -19,7 +19,7 @@
             <div class="container">
 				<div class="row">
 					<div class="col-lg-12 ">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.548153576213!2d73.93011831436912!3d18.549310073137118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c3d8667c96b9%3A0xd4c7f982a4aac57!2sPrecision%20Gauges%20Tools!5e0!3m2!1sen!2sin!4v1609213159784!5m2!1sen!2sin" style="border:0; width: 100%; height: 384px;" frameborder="0"  allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.0894856136424!2d74.10197531489487!3d18.659979987327958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTjCsDM5JzM1LjkiTiA3NMKwMDYnMTUuMCJF!5e0!3m2!1sen!2sin!4v1614411744704!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 					</div>
 				</div>
             </div>
@@ -36,7 +36,7 @@
 								<h5>Call</h5> 
                                 <h5 class="ttm-fid-inner"><i class="icon-box icon-style-border"></i>
 								   
-                                   <a href="tel:8796154725" target="_blank">+123 456 7890</a> 
+                                   <a href="tel:7774020978" target="_blank">+91  7774020978</a> 
                                 </h5>
                             </div>
                          
@@ -51,7 +51,7 @@
 								 <h5>WhatsApp</h5> 
                                 <h5 class="ttm-fid-inner"><i class="icon-box icon-style-border"></i>
 								   
-                                   <a href="tel:8796154725" target="_blank">+123 456 7890</a> 
+                                   <a href="tel:8888687106" target="_blank">+91 8888687106</a> 
                                 </h5>
                             </div>
                            
@@ -66,7 +66,7 @@
 								 <h5>Email</h5>
                                 <h5 class="ttm-fid-inner"><i class="icon-box icon-style-border"></i>
 								  
-                                   info@example.com
+                                   info@siddheshwargroup<br>.com
                                 </h5>
                             </div>
                            
@@ -80,7 +80,7 @@
                                 </div>
 								<h5>Address</h5> 
                                 <h5 class="ttm-fid-inner"><i class="icon-box icon-style-border"></i>
-								     24 Fifth st, Los Angeles, USA
+								    <p align="justify">Gat No. 686, Milkat No. 719, Near Hassia Packaging, Pune Nagar Road, Sanaswadi, Pune – 412208.</p>
                                 </h5>
                             </div>
                            

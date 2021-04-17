@@ -48,7 +48,7 @@
 					$("#mail-status").attr("class","error");				
 				} else if(response.type == "message"){
 					$('#send-message').hide();
-					document.getElementById('frmContact').reset();
+					document.getElementById('ttm-quote-form').reset();
 					$("#mail-status").attr("class","success");		
 					setTimeout(function () {SUCCESS.innerHTML =""}, 10000);
 				}
@@ -107,10 +107,11 @@
                             <!-- section title -->
                             <div class="section box-shadow2-title clearfix">
                                 <div class="title-header">
-									<div id='SUCCESS'><div id="mail-status"></div></div>
+								 <div id="loader-icon" style="display:none;"><img src="images/pre-loader-1.gif" /></div>
+				  	                <div id='SUCCESS'><div id="mail-status"></div></div>
                                 </div>
                             </div><!-- section title end -->
-                            <form id="ttm-quote-form" class="ttm-quote-form wrap-form clearfix" method="post" novalidate="novalidate">
+                            <form id="ttm-quote-form" class="ttm-quote-form wrap-form clearfix" method="POST" novalidate="novalidate">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <label>

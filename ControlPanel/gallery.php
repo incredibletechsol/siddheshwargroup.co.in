@@ -118,7 +118,7 @@
 								$i=0;
 								echo "<marquee behavior=scroll direction=left scrollamount=7 onmouseout=this.start() onmouseover=this.stop() scrolldelay=90 style='background-color:white;'>"; 
 								while($row = mysqli_fetch_array($result)){
-									 echo "<a href='../gallery/" . $row['name'] . "' rel='lightbox1' class='effectable'><img src='../gallery/" . $row['name'] . "' width=50 height=50 title=".$row['title']."/></a>";
+									 echo "<a href='../galleryengg/" . $row['name'] . "' rel='lightbox1' class='effectable'><img src='../galleryengg/" . $row['name'] . "' width=50 height=50 title=".$row['title']."/></a>";
 								 echo "<a href='galleryactions.php?id=$row[photoid]&msg=delete'><img src=images/cross.png border=0 width=25 height=25></a>";
 								}
 								echo "</marquee>";

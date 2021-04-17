@@ -62,7 +62,7 @@ include("conn.php");
 				{
 				$title = $_POST['title'];
 				$fileName = $_FILES['photo']['name'];
-				$target_path = "../gallery/";
+				$target_path = "../galleryengg/";
 				$target_path=$target_path.basename($fileName);
 				
 				if(move_uploaded_file($_FILES['photo']['tmp_name'],$target_path))
@@ -157,7 +157,7 @@ include("conn.php");
 				
 				while($exiting_photo_row = mysqli_fetch_array($existing_photo_rs)) 
 			     {
-					$target_path="../gallery/";
+					$target_path="../galleryengg/";
 			        $utemp=$target_path.$exiting_photo_row[0];
 			        unlink($utemp);	
 				}

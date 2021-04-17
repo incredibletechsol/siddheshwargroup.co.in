@@ -31,7 +31,7 @@
                                  </div>
                                  <div class="featured-content">
                                     <div class="featured-title">
-                                       <h5>Siddheshwar Engineering<br> and Packaging</h5>
+                                       <h5>Siddheshwar Group</h5>
                                     </div>
                                     <div class="featured-desc">
                                        <p align="justify">Siddheshwar has the knowledge, experience, equipment and processes to handle a diversity of precision machining and assembly projects. Beginning with process design all the way through to production, we offer start to part capabilities to leading, cross-industrial Indian and multinational companies.</p>
@@ -89,7 +89,7 @@
                   <div class="col-md-5 col-sm-12">
                      <!-- ttm_single_image-wrapper -->
                      <div class="ttm_single_image-wrapper mb-5">
-                        <img class="img-fluid" src="images/single-img-one.png" alt="">
+                        <img class="img-fluid" src="images/aboutus.jpg" alt="">
                      </div>
                      <!-- ttm_single_image-wrapper end -->
                   </div>
@@ -99,12 +99,12 @@
                         <div class="section-title clearfix">
                            <div class="title-header">
                               <h5>ABOUT SIDDHESHWAR GROUP</h5>
-                              <h2 class="title">We Build for Your Comfort</h2>
+                              <h2 class="title">To Stand Out from Crowd</h2>
                            </div>
                         </div>
                         <!-- section title end -->
-                        <p align="justify"><strong>We are a team of professional and skilled experts that aims to transform automation and mechanical based industrial sector in India. We have also built a good network for increasing the export of our products and services.</strong></p>
-                        <p class="pt-5" align="justify">We would like to introduce ourselves as a quality manufacturer of all types of thread plug gauges. Thread Ring Gauges, Taper Gauges & Special all types of Thread Gauges. We stand for quality, safety and credibility, so you could be sure about our work. With our experience in the field we have gained the trust and confidence of satisfied customers in semi government, private & small scale units in Pune & all over India. Our aim now is to make a mark in the Indian market as a whole and extend our client base. We provide our clients with quality products at the most competitive price in the industry. Every member of our team is indeed good at his job and the company guarantees the quality of work.
+                        <p align="justify"><strong>Siddheshwar Group is a group based in Pune. The group started its journey in the year 2011 with a sole motive of designing and manufacturing quality machined parts for variety of applications. Over the years, the group has carved out a niche for itself in quality production of various products in all domains. In a short span of ten years, the group has earned a reputation of being a pioneer in Engineering Services and Packaging Services. </strong></p>
+                        <p class="pt-5" align="justify">The company consists of a team dedicated to Machining and Manufacturing of various automotive parts for various applications, such as automobiles,furniture hardware and special purpose industrial applications. With manufacturing capacity of one million machined parts every year, the company is in the process of growing further to increase its production capacity. Today, Siddheshwar Group is at the forefront of business excellence by adopting the core strategy of reducing product cost drastically and increasing quality by ensuring availability of all the critical components in its state of the art infrastructure, located in the industrial area of Sanaswadi, Pune. The company supports the concept of quality assurance over quality control. All the in-house facilities and its infrastructure support the theme of maintaining utmost quality of production.
                         </p>
                         <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-skincolor btn-inline mb-20" href="aboutus.php">MORE ABOUT<i class="ti ti-angle-double-right"></i></a>
                         <div class="separator">

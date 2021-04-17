@@ -3,6 +3,12 @@
    <!-- header-infostack41:44-->
    <head>
       <?php include('head.php'); ?>
+      <style>
+          .myimg  {
+        width  : 477px;
+        height : 627px;
+        }
+      </style>
    </head>
    <body>
       <!--page start-->
@@ -14,16 +20,21 @@
      
       <!--site-main start-->
       <div class="site-main">
-       
+        
          <!--about-section-->
-         <section class="ttm-row about-section bg-img1 break-991-colum clearfix">
-
+        <section class="ttm-row about-section bg-img1 break-991-colum clearfix">
             <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h2><strong>About Us</strong></h2>
+                        <br><br>
+                    </div>
+                </div><!-- row end -->
                <div class="row">
                   <div class="col-md-5 col-sm-12">
                      <!-- ttm_single_image-wrapper -->
                      <div class="ttm_single_image-wrapper mb-5">
-                        <img class="img-fluid" src="images/single-img-one.png" alt="">
+                        <img class="img-fluid" src="images/aboutus.jpg" alt="">
                      </div>
                      <!-- ttm_single_image-wrapper end -->
                   </div>
@@ -33,14 +44,14 @@
                         <div class="section-title clearfix">
                            <div class="title-header">
                               <h5>ABOUT SIDDHESHWAR GROUP</h5>
-                              <h2 class="title">We Build for Your Comfort</h2>
+                              <h2 class="title">To Stand Out from Crowd....</h2>
                            </div>
                         </div>
                         <!-- section title end -->
-                        <p align="justify"><strong>We are a team of professional and skilled experts that aims to transform automation and mechanical based industrial sector in India. We have also built a good network for increasing the export of our products and services.</strong></p>
-                        <p class="pt-5" align="justify">We would like to introduce ourselves as a quality manufacturer of all types of thread plug gauges. Thread Ring Gauges, Taper Gauges & Special all types of Thread Gauges. We stand for quality, safety and credibility, so you could be sure about our work. With our experience in the field we have gained the trust and confidence of satisfied customers in semi government, private & small scale units in Pune & all over India. Our aim now is to make a mark in the Indian market as a whole and extend our client base. We provide our clients with quality products at the most competitive price in the industry. Every member of our team is indeed good at his job and the company guarantees the quality of work.
+                        <p align="justify"><strong>Siddheshwar Group is a group based in Pune. The group started its journey in the year 2011 with a sole motive of designing and manufacturing quality machined parts for variety of applications. Over the years, the group has carved out a niche for itself in quality production of various products in all domains. In a short span of ten years, the group has earned a reputation of being a pioneer in Engineering Services and Packaging Services. </strong></p>
+                        <p class="pt-5" align="justify">The company consists of a team dedicated to Machining and Manufacturing of various automotive parts for various applications, such as automobiles,furniture hardware and special purpose industrial applications. With manufacturing capacity of one million machined parts every year, the company is in the process of growing further to increase its production capacity. Today, Siddheshwar Group is at the forefront of business excellence by adopting the core strategy of reducing product cost drastically and increasing quality by ensuring availability of all the critical components in its state of the art infrastructure, located in the industrial area of Sanaswadi, Pune. The company supports the concept of quality assurance over quality control. All the in-house facilities and its infrastructure support the theme of maintaining utmost quality of production.
                         </p>
-                        <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-skincolor btn-inline mb-20" href="#">MORE ABOUT<i class="ti ti-angle-double-right"></i></a>
+                        
                         <div class="separator">
                            <div class="sep-line mt_5 mb-40"></div>
                         </div>
@@ -108,10 +119,10 @@
                         <!-- section title -->
                         <div class="section-title with-desc title-style-center_text clearfix">
                             <div class="title-header">
-                                <h5>MEET OUR TEAM</h5>
-                                <h2 class="title">A Professional Our Team</h2>
+                
+                                <h2 class="title">Our Team</h2>
                             </div>
-                            <div class="title-desc">Boldman has 10+ years of experience with providing wide area of specialty services works listed below.</div>
+                           
                         </div><!-- section title end -->
                     </div>
                     <div class="col-md-2"></div>
@@ -130,13 +141,13 @@
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img01.jpg" alt="image"> 
+                                <img class="img-fluid myimg" src="images/president.jpg" alt=">Mr.Kisan Hargude"> 
                             </div> 
                             <div class="featured-content featured-content-team">
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Alex Edward</a></h5>
+                                    <h5><a href="#">Mr.Kisan Hargude</a></h5>
                                 </div>
-                                <p class="category">Plumber</p>
+                                <p class="category">President</p>
                                 <div class="ttm-social-links-wrapper">
                                     <ul class="social-icons list-inline">
                                         <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -146,35 +157,17 @@
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
+                        
                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img02.jpg" alt="image">
+                                <img class="img-fluid myimg" src="images/md.jpg" alt="Mr.Uttam Hargude"> 
                             </div> 
                             <div class="featured-content featured-content-team">
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">Harly Rayan</a></h5>
+                                    <h5><a href="#">Mr.Uttam Hargude</a></h5>
                                 </div>
-                                <p class="category">Electrician</p>
-                                <div class="ttm-social-links-wrapper">
-                                    <ul class="social-icons list-inline">
-                                        <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li class="social-twitter"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                        <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div><!-- featured-imagebox-team end-->
-                        <!-- featured-imagebox-team -->
-                        <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
-                            <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img03.jpg" alt="image"> 
-                            </div> 
-                            <div class="featured-content featured-content-team">
-                                <div class="featured-title">
-                                    <h5><a href="team-details.html">Andrew Bon</a></h5>
-                                </div>
-                                <p class="category">Cleaner</p>
+                                <p class="category">Managing Director</p>
                                 <div class="ttm-social-links-wrapper">
                                     <ul class="social-icons list-inline">
                                         <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -184,25 +177,26 @@
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
-                        <!-- featured-imagebox-team -->
+                         <!-- featured-imagebox-team -->
                         <div class="featured-imagebox featured-imagebox-team ttm-team-box-view-overlay">
                             <div class="featured-thumbnail">
-                                <img class="img-fluid" src="images/team-member/team-img04.jpg" alt="image"> 
+                                <img class="img-fluid myimg" src="images/ceo.jpg" alt="Cheif Executive Officer"> 
                             </div> 
                             <div class="featured-content featured-content-team">
                                 <div class="featured-title">
-                                    <h5><a href="team-details.html">John Martin</a></h5>
+                                    <h5><a href="#">Mr.Shubham Hargude</a></h5>
                                 </div>
-                                <p class="category">Home Maintenance</p>
+                                <p class="category">Cheif Executive Officer</p>
                                 <div class="ttm-social-links-wrapper">
                                     <ul class="social-icons list-inline">
                                         <li class="social-facebook"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                        <li class="social-gplus"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                                        <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Flickr"><i class="fa fa-flickr" aria-hidden="true"></i></a></li>
+                                        <li class="social-twitter"><a class="tooltip-top" target="_blank" href="#" data-tooltip="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                        <li class="social-linkedin"><a class=" tooltip-top" target="_blank" href="#" data-tooltip="Youtube"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div><!-- featured-imagebox-team end-->
+                
                     </div>
                 </div><!-- row end -->
             </div>
@@ -222,10 +216,16 @@
                             </div>
                             <div class="featured-content">
                                 <div class="featured-title">
-                                    <h5>Quality</h5>
+                                    <h5>Core Values</h5>
                                 </div>
                                 <div class="featured-desc">
-                                    <p align="justify">Our company pays more adverts to the quality of products. We procure our products from the reliable manufacturers who are conscious about the quality</p>
+                                    <p align="justify">
+                                       1.	Customer Focus: We create an exceptional experience for our customers when we listen and understand our customers. <br>
+2.	Safety: Our focus on safety helps us to protect our assets.<br>
+3.	Respect for People: We believe that sincere concern and empathy help create a unique work environment and enhance lasting employee, customer, supplier, and community relationships.<br>
+4.	Integrity: Integrity is based on trust. Being trustworthy means that we keep our word with customers, suppliers, partners, and fellow employees.
+
+                                        </p>
                                 </div>
                             </div>
                         </div><!-- featured-icon-box end-->
@@ -241,7 +241,7 @@
                                     <h5>Our Mission</h5>
                                 </div>
                                 <div class="featured-desc">
-                                    <p align="justify">Our Mission is to become one of the best company in providing the gauging solution in the market.</p>
+                                    <p align="justify">To deliver superior quality, reliable solution for our customers and to ensure that safety, sustainability and integrity is maintained in every task we do. </p>
                                 </div>
                             </div>
                         </div><!-- featured-icon-box end-->
@@ -257,7 +257,7 @@
                                     <h5>Our Vision</h5>
                                 </div>
                                 <div class="featured-desc">
-                                    <p align="justify">Our Vision is to provide the best quality gauges at lowest rate as compared to market rate.</p>
+                                    <p align="justify">To become prominent preference of our customers in Indian as well as global market for all of our flagships with the help of optimistic approach, latest technology and excellent professionals. </p>
                                 </div>
                             </div>
                         </div><!-- featured-icon-box end-->
